@@ -4,7 +4,6 @@ Welcome to the repository for my personal portfolio website! This site serves as
 
  [Live Website Link](https://DeanM01.github.io) 
 
----
 
 ##  Design & User Experience (UX) Goals
 When building this portfolio, I focused heavily on core front-end performance and clean layout design principles:
@@ -17,7 +16,6 @@ When building this portfolio, I focused heavily on core front-end performance an
 * **Design/Wireframing:** Figma
 * **Hosting/Deployment:** GitHub Pages
 
----
 
 ## Repository Structure
 Here is how the project files are organized:

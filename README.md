@@ -2,7 +2,7 @@
 
 Welcome to the repository for my personal portfolio website! This site serves as my digital home base, showcasing my software engineering projects, technical skillset, and academic background as a student.
 
- [Live Website Link](https://6a2bcbe1a503af33d75f3a8d--leafy-gelato-f9826b.netlify.app/)) 
+ [Live Website Link](https://dean-portfolio-website.netlify.app/) 
 
 
 ##  Design & User Experience (UX) Goals
